@@ -57,10 +57,10 @@ export const About = () => {
           </h3>
 
           <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            A passionate Computer Science undergrad who loves turning ideas into
-            clean, functional, and modern web experiences. I specialize in the
-            MERN stack and enjoy solving complex problems using Java & DSA.
-            Currently pursuing my Bachelor's at United University, Prayagraj.
+           I’m a dedicated Computer Science and Engineering undergraduate with a strong passion for building clean, functional,and 
+           modern web experiences. Specializing in the MERN stack, I enjoy solving complex problems using Java and Data Structures & Algorithms.
+           I am currently pursuing my Bachelor’s degree at United University, Prayagraj, where I continue to deepen my technical expertise and
+           project-building experience.
           </p>
         </motion.div>
         {/* Service Cards */}

@@ -62,9 +62,9 @@ export const Hero = () => {
               transition={{ delay: 0.4 }}
               className="text-lg md:text-xl text-muted-foreground max-w-xl"
             >
-              I build scalable web apps with smooth UI, clean code, and a
-              problem-solving mindset. MERN stack is my playground — and I love
-              crafting real-world products that actually feel good to use.
+              I build scalable, user-friendly web applications with clean architecture and a strong problem-solving approach.
+              Specializing in the MERN stack, I focus on creating real-world digital products that deliver smooth, intuitive 
+              experiences and maintain high code quality throughout.
             </motion.p>
 
             {/* CTA Buttons */}
